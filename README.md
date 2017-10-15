@@ -4,7 +4,7 @@ This repository was created as a way to help other developers in creating Alexa 
 
 ## Open Source Skills
 
-A community driven list of Open Source skills can be found [here](https://github.com/khaptonstall/alexa-guidebook/OpenSourceSkills).
+A community driven list of Open Source skills can be found in the [Open Source Skills](OpenSourceSkills/) directory.
 
 ## Contributing
 
