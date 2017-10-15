@@ -2,6 +2,10 @@
 
 This repository was created as a way to help other developers in creating Alexa skills using the [Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit). Those new to developing on Amazon platforms may find difficulty at first since the process is divided across both AWS and the Alexa Developer Console, so this repository contains guides for navigating both of these in order to create your own Alexa skill.
 
+## Open Source Skills
+
+A community driven list of Open Source skills can be found [here](https://github.com/khaptonstall/alexa-guidebook/OpenSourceSkills).
+
 ## Contributing
 
 Feel free to contribute to this repository by:
