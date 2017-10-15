@@ -1,6 +1,6 @@
 # Skill Builder
 
-Skill Builder is Amazon's new(er) UI to ease the process of building the Interaction Model of your skill. At it's core, the Interaction Model is a JSON document outlining the Intents and Slot Types you skill uses. Prior to Skill Builder, developers had to manually write this JSON document (which can still be found in the Code Editor section of Skill Builder).
+Skill Builder is Amazon's new(er) UI to ease the process of building the Interaction Model of your skill. At its core, the Interaction Model is a JSON document outlining the Intents and Slot Types you skill uses. Prior to Skill Builder, developers had to manually write this JSON document (which can still be found in the Code Editor section of Skill Builder).
 
 With Skill Builder, Amazon is making the process that much easier by providing an interface much like that of similar services such as [Dialogflow](https://dialogflow.com) (previously Api.ai) and [Wit.ai](https://wit.ai).
 
