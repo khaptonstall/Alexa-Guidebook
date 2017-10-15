@@ -54,7 +54,7 @@ i.e. "Alexa, ask Times Reader for today's headlines."
 
 ### 2. Interaction Model
 
-TODO
+The Interaction Model of your skill is the section that maps the user's speech input to a function in your code. Because the Interaction Model is such a large part of the skill creation, you will find its documentation [here](https://github.com/khaptonstall/alexa-guidebook/tree/master/Process/AlexaDevCenter/SkillBuilder).
 
 ### 3. Configuration
 
