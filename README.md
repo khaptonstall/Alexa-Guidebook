@@ -4,15 +4,7 @@ This repository was created as a way to help other developers in creating Alexa 
 
 ## Open Source Skills
 
-If you would like to list your Open Source Alexa Skill here, please open a new pull request with the following information:
-- Skill name
-- Short description of the skill
-- Link to the repository
-- Programming language used
-
-### Node.js
-
-### Python
+A community driven list of Open Source skills can be found [here](https://github.com/khaptonstall/alexa-guidebook/OpenSourceSkills).
 
 ## Contributing
 
