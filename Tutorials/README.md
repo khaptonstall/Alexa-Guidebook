@@ -2,6 +2,7 @@
 
 ## Node.js
 Add a Node.js tutorial by following the contribution guidelines below!
+- [Alexa Skill in 60 minutes](https://github.com/finanzcheck/alexa-workshop) - workshop & presentation to build your first skill.
 
 ## Python
 Add a Python tutorial by following the contribution guidelines below!
